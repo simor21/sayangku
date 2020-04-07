@@ -1,7 +1,0 @@
-Lisensi Script JB
-
-username : jepri
-
-password : barus
-
-( huruf kecil semua )
